@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "spring.elasticsearch.rest.uris",
+      "defaultValue": [
+        "http://localhost:9200"
+      ]
+    }
+  ]
+}
