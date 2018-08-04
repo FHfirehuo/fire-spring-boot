@@ -1,4 +1,4 @@
-#Elasticsearch High Level REST Client Starter
+# elasticsearch high level rest client starter
 
 A spring boot of elasticsearch 6.x high level rEST client starter
 
